@@ -52,7 +52,5 @@ No upgrade notices.
 * The first code of the plugin
 
 
-== Upgrade Notice ==
-
 
 == Arbitrary section ==
